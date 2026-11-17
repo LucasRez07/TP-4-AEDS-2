@@ -313,7 +313,7 @@ public class Main{
                     }
                 }
             }
-
+	    sc.nextLine();
 	    while((mod = sc.nextLine()).length() != 3 || (mod.charAt(0) != 'F') || (mod.charAt(1) != 'I') || (mod.charAt(2) != 'M')){ //Enquanto a entrada for diferente de FIM pesquiso se existe na árvore
 		if(arvore.pesquisar(mod) == true){ //Se encontrar printa o caminho e SIM
 			System.out.println("SIM");

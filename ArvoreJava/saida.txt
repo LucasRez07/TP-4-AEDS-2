@@ -1,4 +1,3 @@
-raiz esq esq esq esq NAO
 raiz esq dir dir esq esq dir NAO
 raiz dir esq dir dir esq esq NAO
 raiz dir dir esq dir esq esq dir dir NAO
